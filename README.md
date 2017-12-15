@@ -1,7 +1,7 @@
 ![WordPress + React Starter Kit](frontend/static/images/wordpress-plus-react-header.png)
 
 Postlight's Headless WordPress + React Starter Kit is an automated toolset that will spin up two things:
-
+0. Bla bla bla
 1. A WordPress backend that serves its data via the [WP REST API](https://developer.wordpress.org/rest-api/).
 2. A server-side rendered React frontend using [Next.js](https://github.com/zeit/next.js/).
 
